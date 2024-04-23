@@ -12,12 +12,11 @@ Given a dataset containing the stock prices of Netflix, including columns such a
  2.Check for any missing values and column datatypes.
 
 ### Solution approach:
-  Visualization:
   
-  1. Plot a line graph to visualize the average High and Low prices over time.
+   1.Plot a line graph to visualize the average High and Low prices over time.
    
-  2.Highlight the data into tables having top 5 high and low days on the graph for better understanding.
+   2.Highlight the data into tables having top 5 high and low days on the graph for better understanding.
 
-  3.Add year and month sekection for better insingths into the data 
+   3.Add year and month sekection for better insingths into the data 
 
      
